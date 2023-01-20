@@ -6,3 +6,6 @@ API's intergration
 
 javascript
 
+# local dev
+
+open index.html in your broswer
